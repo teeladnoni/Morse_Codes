@@ -36,6 +36,7 @@ python Morse_Codes.py
 CopyInsert
 Follow the on-screen instructions to convert text to Morse code or Morse code to text.
 
+## Usage
 Example
 Convert text to Morse code:
 
@@ -52,7 +53,7 @@ The secret message is:
 Hello World
 CopyInsert
 
-
+## Contributing
 Contributing
 Contributions are welcome! Please follow these steps:
 
@@ -61,8 +62,11 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them with descriptive messages.
 Push your changes to your fork.
 Submit a pull request to the main repository.
+
+## License
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+## Contact
 Contact
 For any questions or feedback, please contact Teelad.
