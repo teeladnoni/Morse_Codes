@@ -32,7 +32,6 @@ Ensure you have Python installed on your system. This script is compatible with 
 
 ## Usage
 Run the script using Python:
-```bash
    python Morse_Codes.py
 CopyInsert
 
