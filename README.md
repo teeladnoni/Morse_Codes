@@ -29,14 +29,14 @@ It includes functions to handle both conversions and ensures that the output tex
    cd Morse_Codes
 CopyInsert
 Ensure you have Python installed on your system. This script is compatible with Python 3.
-Usage
+
+## Usage
 Run the script using Python:
 
 python Morse_Codes.py
+
 CopyInsert
 Follow the on-screen instructions to convert text to Morse code or Morse code to text.
-
-## Usage
 Example
 Convert text to Morse code:
 
@@ -45,6 +45,7 @@ Enter a string: HELLO WORLD
 The morse code is:
 .... . .-.. .-.. ---   .-- --- .-. .-.. -..
 CopyInsert
+
 Convert Morse code to text:
 
 Enter 1 to convert string to morse code or 2 to convert morse code to string: 2
