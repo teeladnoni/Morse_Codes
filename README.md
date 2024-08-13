@@ -50,3 +50,19 @@ Enter 1 to convert string to morse code or 2 to convert morse code to string: 2
 Enter morse code: .... . .-.. .-.. ---   .-- --- .-. .-.. -..
 The secret message is:
 Hello World
+CopyInsert
+
+
+Contributing
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make your changes and commit them with descriptive messages.
+Push your changes to your fork.
+Submit a pull request to the main repository.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For any questions or feedback, please contact Teelad.
