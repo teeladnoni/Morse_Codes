@@ -25,14 +25,14 @@ It includes functions to handle both conversions and ensures that the output tex
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/teeladnoni/Morse_code-converter.git
-   cd morse-code-converter
+   git clone https://github.com/teeladnoni/Morse_Codes.git
+   cd Morse_Codes
 CopyInsert
 Ensure you have Python installed on your system. This script is compatible with Python 3.
 Usage
 Run the script using Python:
 
-python morse_code_converter.py
+python Morse_Codes.py
 CopyInsert
 Follow the on-screen instructions to convert text to Morse code or Morse code to text.
 
