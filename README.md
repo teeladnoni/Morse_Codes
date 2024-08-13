@@ -32,7 +32,7 @@ Ensure you have Python installed on your system. This script is compatible with 
 
 ## Usage
 Run the script using Python:
-   ```bash
+```bash
    python Morse_Codes.py
 CopyInsert
 
@@ -42,7 +42,7 @@ Convert text to Morse code:
 
 Enter 1 to convert string to morse code or 2 to convert morse code to string: 1
 Enter a string: HELLO WORLD
-  ```bash
+```bash
    The morse code is:
    .... . .-.. .-.. ---   .-- --- .-. .-.. -..
 
