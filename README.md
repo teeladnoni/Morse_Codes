@@ -41,7 +41,7 @@ Convert text to Morse code:
 
 Enter 1 to convert string to morse code or 2 to convert morse code to string: 1
 Enter a string: HELLO WORLD
-```bash
+
    The morse code is:
    .... . .-.. .-.. ---   .-- --- .-. .-.. -..
 
