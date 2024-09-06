@@ -31,26 +31,29 @@ CopyInsert
 Ensure you have Python installed on your system. This script is compatible with Python 3.
 
 ## Usage
-Run the script using Python:
+
+2. Run the script using Python:
+   ```bash
    python Morse_Codes.py
 CopyInsert
 
-Follow the on-screen instructions to convert text to Morse code or Morse code to text.
-Example
-Convert text to Morse code:
-
-Enter 1 to convert string to morse code or 2 to convert morse code to string: 1
-Enter a string: HELLO WORLD
-
-   The morse code is:
-   .... . .-.. .-.. ---   .-- --- .-. .-.. -..
-
-Convert Morse code to text:
-
-Enter 1 to convert string to morse code or 2 to convert morse code to string: 2
-Enter morse code: .... . .-.. .-.. ---   .-- --- .-. .-.. -..
-The secret message is:
-Hello World
+3. Follow the on-screen instructions to convert text to Morse code or Morse code to text:
+   Example
+   ```bash
+   Convert text to Morse code:
+   
+   Enter 1 to convert string to morse code or 2 to convert morse code to string: 1
+   Enter a string: HELLO WORLD
+   
+      The morse code is:
+      .... . .-.. .-.. ---   .-- --- .-. .-.. -..
+   
+   Convert Morse code to text:
+   
+   Enter 1 to convert string to morse code or 2 to convert morse code to string: 2
+   Enter morse code: .... . .-.. .-.. ---   .-- --- .-. .-.. -..
+   The secret message is:
+   Hello World
 CopyInsert
 
 ## Contributing
